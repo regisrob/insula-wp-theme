@@ -1,0 +1,35 @@
+/* CSS pour administration de Wordpress */
+
+/* Elargir le menu de gauche et la colonne de droite */
+/*
+#wpbody{margin-left:220px}
+#adminmenu{width:190px;margin-left:-205px}
+.inner-sidebar #side-sortables{width:330px}
+.inner-sidebar{width:331px}
+.has-right-sidebar #post-body-content{margin-right:350px}
+#adminmenu .wp-submenu a{font-size:13px;line-height:20px}
+#adminmenu a.menu-top{font-size:15px;line-height:20px}*/
+/* Agrandir les titres */
+/*
+table.widefat thead tr .header,table.widefat thead tr th{font-size:1.2em}
+.postbox .hndle span{font-size:1.3em}*/
+/* Mettre en avant les articles et commentaires */
+/*
+#adminmenu a.menu-icon-comments,#adminmenu a.menu-icon-post{font-weight:bold}
+#adminmenu a.menu-top-last{font-weight:normal}*/
+/* Mettre en avant les commentaires en attente de modération */
+#the-comment-list .unapproved {background-color:#f4f4bf}
+/* Espacer les blocs */
+/*.widget,.postbox,.stuffbox {margin-bottom:30px}
+.postbox-container{padding-right:0.6%}
+.postbox{width:95.5%}
+.widefat td,.widefat th,#install-plugins .plugins td,#install-plugins .plugins th,.widget,#widget-list .widget-top,
+.postbox,#titlediv,#poststuff .postarea,.stuffbox{border-color:#cfc7c7}
+/* listes d'articles et de pages WP */
+.status-draft{background-color:#fff}
+.status-publish{background-color:#d7ffda}
+.status-future{background-color:#f8f9cd}
+.status-trash{background-color:#ffcbcb}
+
+/* Masquer Dennis Hoppe ! (fancy-gallery plugin) */
+div[id^="donation-to-dennis-hoppe"]{display:none;}

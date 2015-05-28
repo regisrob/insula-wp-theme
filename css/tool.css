@@ -1,0 +1,147 @@
+/* ==|== non-semantic helper classes ======================================== */
+
+.ir{ display:block; border:0; text-indent:-999em; overflow:hidden; background-color:transparent; background-repeat:no-repeat; text-align:left; direction:ltr}
+.ir br{ display:none}
+.hidden{ display: none !important; visibility:hidden}
+.visuallyhidden{ border:0; clip:rect(0 0 0 0); height:1px; margin:-1px; overflow:hidden; padding:0; position:absolute; width:1px;}
+.visuallyhidden.focusable:active, .visuallyhidden.focusable:focus{ clip:auto; height:auto; margin:0; overflow:visible; position:static; width:auto}
+.invisible { visibility:hidden}
+.clearfix:before, .clearfix:after{ content:"\0020"; display:block; height:0; overflow:hidden}
+.clearfix:after{ clear: both}
+.clearfix{ zoom:1}
+
+/* ==|== media queries ====================================================== */
+
+@media only screen and (min-width: 480px) {}
+
+@media only screen and (min-width: 768px) {}
+
+@media (max-width: 640px) { 
+ /* passer tous les éléments de largeur fixe en largeur automatique */ 
+ body, #page, #main, #sidebar{ width:auto !important; margin:auto !important; padding:auto !important} 
+ 
+ /* fixer une largeur maximale  de 100 % aux éléments potentiellement problématiques */ 
+ img, table, td, blockquote, code, pre, textarea, input, object, embed, video{ max-width:100% !important} 
+ 
+ /* gestion des mots longs */ 
+ textarea, table, td, th, code, pre, samp{ word-wrap: break-word; /* césure forcée */ 
+   white-space:pre-line; /* passage à la ligne spécifique pour les éléments à châsse fixe */ 
+ } 
+ 
+ /* Passer à une seule colonne */ 
+ #main, #sidebar { 
+   float: none !important; 
+   width: auto !important;
+ }
+ 
+ /* masquer les éléments superflus */
+ #scrollTop, .toolbar, .cite{ visibility:hidden !important; display:none !important}
+ 
+ /* annuler les flottants */
+ #logos, #widget-area-1, #licence{ float:none !important}
+}
+
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen
+and (min-width : 320px)
+and (max-width : 480px) {
+	#branding{ padding-left:0; background:none !important}
+	#search-in{	display:none}
+	.site-navigation li{ float:none !important; width:auto !important; margin-left:0}
+	.site-navigation li + li{ margin-left:0}
+	#site-title{ font-size:3.8em}
+	#site-title a{ text-shadow: 2px 2px 5px #000}
+	#site-description{ color:#5C5C5C; text-shadow:none; font-size:.9em}
+	#widget-area-1{ margin-top:.539em}
+	.entry-title{ font-size:1.6em}
+	#licence{ margin-bottom:.539em}
+	
+	/* A masquer */
+	.toolbar{display:none}
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen
+and (min-width : 321px) {
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen
+and (max-width : 320px) {
+}
+
+/* iPhone 4 ----------- */
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen
+and (min-width : 768px)
+and (max-width : 1024px) {
+}
+
+/* iPads (landscape) ----------- */
+@media only screen
+and (min-width : 768px)
+and (max-width : 1024px)
+and (orientation : landscape) {
+}
+
+/* iPads (portrait) ----------- */
+@media only screen
+and (min-width : 768px)
+and (max-width : 1024px)
+and (orientation : portrait) {
+}
+
+/* ==|== print styles ======================================================= */
+
+@media print {
+  *{ background:transparent !important; color:black !important; text-shadow:none !important; filter:none !important;
+  -ms-filter:none !important; overflow:visible !important} 
+  a, a:visited{ color:#666 !important; text-decoration:underline}
+  a[href]:after{ content: "";}
+  abbr[title]:after, acronym[title]:after{ content:" (" attr(title) ")";}
+  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after{ content: "";}  
+  pre, blockquote{ border:1px solid #999; page-break-inside:avoid}
+  thead{ display:table-header-group} 
+  tr, img{ page-break-inside:avoid}
+  img{ max-width:100% !important}
+  @page{ margin:0.5cm}
+  p, h2, h3{ orphans:3; widows:3}
+  h2, h3{ page-break-after:avoid; page-break-inside:avoid}
+
+	/* Ajustements et correctifs*/
+	html{ background:none}
+	body{ font-family:"Times New Roman",Times,serif; font-size:12pt; line-height:125%}
+
+	body, #page, #main{ width:100%; margin:0; padding:0; float:none}
+	#main section{ padding:0}
+
+	h1, h2, h3, h4, h5, .post-title h1{	font-family: Georgia,"Times New Roman",Times,serif;	color:#555}
+	h1{ font-size:20pt; line-height:120%; margin-top:4}
+	h2{	font-size:16pt; line-height:120%; margin-top:3}
+	h3{	font-size:14pt;	margin-top:3%; margin-bottom:0}
+	h4{	font-size:12pt;	margin-top:2%; margin-bottom:0}
+
+	ul li{ list-style-image:none}
+
+	acronym, abbr{ border-style:none;}
+
+	.entry-content a[href^="http://"]:after{ content:" (" attr(href) ")";} /* On insere le contenu du href seulement pour les liens dans le corps du billet */
+
+	.post-tags a{ border:none; display:inline}
+
+	.encart{ page-break-inside: avoid}
+	.footnote{ text-align:left}
+	.barreTitre{padding-left:8px; border-left:3px solid #555}
+	.titreNotes:before{ content:none}
+	  
+	/* Elements à masquer */
+	#banner, #sidebar, #content-info, img, #respond, #scrollTop{ display:none;}
+	.dot, .Z3988, .post-comments, .booklinker, .wp-caption, .post-edit, .comment-reply, .fancybox, .wp-caption-text, .related_post_bloc, .related_post, .navLinks, .puce, .cite, #cite-post, .toolbar{ display:none !important}
+}

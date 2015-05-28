@@ -1,0 +1,724 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Basics 0.2.4.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-26 15:10+0100\n"
+"PO-Revision-Date: 2011-05-26 15:10+0100\n"
+"Last-Translator: Wolforg <contact@wolforg.eu>\n"
+"Language-Team: Wolforg <contact@wolforg.eu>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2;plural=n>2\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1\n"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/comments.php:13
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/comments.php:31
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/comments.php:43
+msgid "Comment navigation"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/comments.php:32
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/comments.php:33
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/content-404.php:14
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/content-404.php:20
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/content-404.php:32
+msgid "Most Used Categories"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/content-404.php:39
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/content-news.php:23
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/content.php:25
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/content.php:31
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:82
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/content.php:32
+msgid "Pages:"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/footer.php:27
+msgid "Contact the administrator "
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/footer.php:39
+msgid "Proudly powered by WordPress"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/footer.php:41
+#, php-format
+msgid "Theme: %1$s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:34
+msgid "Main navigation"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:35
+msgid "Second navigation"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:36
+msgid "Third navigation"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:37
+msgid "Fourth navigation"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:112
+msgid "Wiget area ready one"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:114
+msgid "An optional first sidebar-one widgets area"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:121
+msgid "Wiget area ready two"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:123
+msgid "A second sidebar-one widgets area"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:130
+msgid "Wiget area ready three"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:132
+msgid "An optional third sidebar-one widgets area"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:139
+msgid "Wiget area ready four"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:141
+msgid "An optional fourth sidebar-two widgets area"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:148
+msgid "Wiget area ready five"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:150
+msgid "A fifth sidebar-two widgets area"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:157
+msgid "Wiget area ready six"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:159
+msgid "An optional sixth sidebar-two widgets area"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:166
+msgid "Wiget area ready seven"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:168
+msgid "An optional seventh footer widgets area"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:175
+msgid "Wiget area ready eight"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:177
+msgid "An eighth footer widgets area"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:184
+msgid "Wiget area ready nine"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:186
+msgid "An optional ninth footer widgets area"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:204
+msgid "Post navigation"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:205
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:206
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:227
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:253
+#, php-format
+msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:277
+#, php-format
+msgid "Posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:279
+#, php-format
+msgid "Posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:281
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:334
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:337
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:344
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:346
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:364
+msgid "(Edit)"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:354
+msgid "Reply!"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:364
+msgid "Pingback:"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:387
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:97
+msgid "Name"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:388
+msgid "What can we call you?"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:390
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:104
+msgid "Email"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:391
+msgid "How can we reach you?"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:393
+msgid "Website"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:394
+msgid "Have you got a website?"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:399
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:403
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:404
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:405
+msgid "Your email address will not be published."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:406
+#, php-format
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:409
+msgid "Leave a Reply"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:410
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:411
+msgid "Cancel reply"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/functions.php:412
+msgid "Post Comment"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/header.php:37
+#, php-format
+msgid "Subscribe to %1$s via RSS"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/header.php:68
+msgid "Site navigation"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/header.php:71
+msgid "Skip to content"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/home.php:27
+msgid "Posts not found. Tell the administrator that the category requested not exists."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/searchform.php:13
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/searchform.php:14
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/searchform.php:15
+msgid "Search in "
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/sidebar-one.php:25
+msgid "Archives"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/sidebar-one.php:32
+msgid "Meta"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:24
+msgid "You forgot to enter your name."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:32
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:35
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:43
+msgid "You forgot to enter your comments."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:57
+#, php-format
+msgid "Contact Form Submission from %1$s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:59
+#, php-format
+msgid ""
+"Name: %1$s \\n"
+"\\n"
+" Email: %2$s \\n"
+"\\n"
+" Comments: %3$s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:61
+#, php-format
+msgid ""
+"From: My Site <%1$s>\\r\\n"
+" Reply-To: %2$s "
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:67
+msgid "You emailed Your Name"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:68
+#, php-format
+msgid "From: Your Name <%1$s>"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:81
+#, php-format
+msgid "Thanks, %1$s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:82
+msgid "Your email was successfully sent. I will be in touch soon."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:92
+msgid "There was an error submitting the form."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:111
+msgid "Comments"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:117
+msgid "Send a copy of this email to yourself."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:118
+msgid "If you want to submit this form, do not enter anything in this field."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics/utils/contact-form.php:119
+msgid "Email me &raquo;"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/comments.php:23
+msgid "Enter the comments area."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/comments.php:61
+msgid "Want to say some word? Let's stay in touch with the \"Contact\" page."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/footer.php:18
+msgid "Widget Area 11"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/footer.php:24
+msgid "Colophon"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/footer.php:27
+msgid "&copy;"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/footer.php:29
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/footer.php:35
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/footer.php:38
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:511
+#, php-format
+msgid "<span class=\"%1$s\">%2$s</span>"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/footer.php:29
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/footer.php:35
+msgid " &mdash; "
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/footer.php:39
+msgid " &hearts; "
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/footer.php:41
+#, php-format
+msgid "Theme: %1$s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/footer.php:44
+#, php-format
+msgid "By %1$s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:47
+msgid "First navigation"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:153
+msgid "One"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:155
+msgid "Widgets Area One"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:162
+msgid "Two"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:164
+msgid "Widgets Area Two"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:171
+msgid "Three"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:173
+msgid "Widgets Area Three"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:180
+msgid "Four"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:182
+msgid "Widgets Area Four"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:189
+msgid "Five"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:191
+msgid "Widgets Area Five"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:198
+msgid "Six"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:200
+msgid "Widgets Area Six"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:207
+msgid "Seven"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:209
+msgid "Widgets Area Seven"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:216
+msgid "Eight"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:218
+msgid "Widgets Area Eight"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:225
+msgid "Nine"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:227
+msgid "Widgets Area Nine"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:234
+msgid "Ten"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:236
+msgid "Widgets Area Ten"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:243
+msgid "Eleven"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:245
+msgid "Widgets Area Eleven"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:333
+msgid "Hi! What can Basics do for you?"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:334
+msgid "See how Basics could help you as a starter theme for your own developpments with WordPress"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:337
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:341
+#, php-format
+msgid "No description for category %s. Suggest the administrator to fill a helping description."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:345
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:345
+#, php-format
+msgid "Archives author for: %s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:349
+#, php-format
+msgid "No description for tag %s. Suggest the administrator to fill a helping blurb."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:358
+#, php-format
+msgid "Sorry, there is no description for author %s. If it's you, feel free to write a consistent description. It is a gook way to promote yourself."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:364
+msgid "Daily Archives:"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:368
+msgid "Monthly Archives:"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:372
+msgid "Yearly Archives:"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:376
+msgid "Blog Archives"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:377
+msgid "Blog Archives description"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:382
+msgid "Search results for:"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:383
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:387
+msgid "Hi! This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#:
+msgid "Permalink to %s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:435
+#, php-format
+msgid "Posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark nofollow\">permalink</a>."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:437
+#, php-format
+msgid "Posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark tag nofollow\">permalink</a>."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:439
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark nofollow\">permalink</a>."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/functions.php:511
+msgid " | "
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/header.php:48
+msgid "Widget Area 1: try \"First navigation\" in custom menus"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/home.php:45
+msgid "Do you want to know more?"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/home.php:46
+msgid "Find here all the latest news about Basics"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/search.php:31
+#, php-format
+msgid "No Search Results for: %s"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/search.php:32
+msgid "Sorry, but nothing matched your search criteria."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/search.php:37
+msgid "Please try again with some different keywords."
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/search.php:38
+msgid "<strong>Just type in, hit &lt;enter&gt; and let me handle it for you.</strong>"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/searchform.php:13
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/searchform.php:18
+msgid "Search in"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/searchform.php:17
+msgid "Search in (hit Enter)"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/sidebar-1.php:13
+msgid "Aside Sidebar 1"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/sidebar-1.php:16
+msgid "Section widget area 5"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/sidebar-1.php:21
+msgid "Section widget area 6"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/sidebar-2.php:13
+msgid "Aside Sidebar 2"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/sidebar-2.php:16
+msgid "Section widget area 7"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/sidebar-2.php:21
+msgid "Section widget area 8"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/sidebar-3.php:13
+msgid "Aside Sidebar 3"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/sidebar-3.php:16
+msgid "Section widget area 9"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/sidebar-3.php:21
+msgid "Section widget area 10"
+msgstr ""
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/basics-0.1.1/basics.0.2.4.1/sidebar-3.php:24
+msgid "Categories"
+msgstr ""
+
+#: edit
+msgid "View all posts by %s"
+msgstr ""
