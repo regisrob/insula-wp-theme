@@ -32,15 +32,15 @@ For Those About to Rock. Fire!
 						<em><?php bloginfo( 'name' ); ?></em>, <?php bloginfo( 'description' ); ?>
 					</span> <!-- eo #copyright -->
 
-					<?php printf( __( '<span class="%1$s">%2$s</span>', 'basics' ), 'meta-sep', __( ' &mdash; ', 'basics' ) ); ?>				
-					<span id="credits">
-						<a href="http://wordpress.org/"><?php _e( 'Proudly powered by WordPress', 'basics' ); ?></a>
-						<?php printf( __( '<span class="%1$s">%2$s</span>', 'basics' ), 
-							'meta-sep', __( ' &mdash; ', 'basics' ) ); ?>
+					<?php //printf( __( '<span class="%1$s">%2$s</span>', 'basics' ), 'meta-sep', __( ' &mdash; ', 'basics' ) ); ?>				
+					<!--<span id="credits">
+						<a href="http://wordpress.org/"><?php // _e( 'Proudly powered by WordPress', 'basics' ); ?></a>
+						<?php //printf( __( '<span class="%1$s">%2$s</span>', 'basics' ), 
+							//'meta-sep', __( ' &mdash; ', 'basics' ) ); ?>
 							
-						<?php printf( __( 'Theme: %1$s', 'basics' ), 
-							'<a href="http://wp4design.com" title="Blank Theme for those about to rock with WordPress!">Basics</a>' ); ?>
-					</span> <!-- eo #credits -->
+						<?php //printf( __( 'Theme: %1$s', 'basics' ), 
+							//'<a href="http://wp4design.com" title="Blank Theme for those about to rock with WordPress!">Basics</a>' ); ?>
+					</span>--> <!-- eo #credits -->
 					<br />
 					<a href="<?php bloginfo('url'); ?>/contact/">
 						<?php _e( 'Contact the administrator ', 'basics' ); ?>
