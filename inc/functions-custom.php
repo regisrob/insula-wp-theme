@@ -141,7 +141,7 @@ function basics_cite_post() {
 	if (is_single() ){ ?>
 		<p class="cite"><a class="cite-link" href="#cite-post" title="Comment citer ce billet ?">Citer ce billet</a></p>
 		<div id="cite-post">
-			<p><span property="dcterms:bibliographicCitation"><?php the_author_firstname();?> <?php the_author_lastname();?>, &laquo;&nbsp;<?php the_title(); ?>&nbsp;&raquo;, <em><?php bloginfo('name'); ?></em> [En ligne], mis en ligne le <?php the_time('j F Y'); ?>. URL : &lt;<a rel="bookmark" title="Lien permanent vers <?php the_title(); ?>" href="<?php the_permalink(); ?>"><?php the_permalink(); ?></a>&gt;. Consult&eacute; le <?php setlocale(LC_TIME, "fr_FR"); echo utf8_encode(strftime("%e %B %Y")); ?>.</span></p>
+			<p><span property="dcterms:bibliographicCitation"><?php the_author_firstname();?> <?php the_author_lastname();?>, &laquo;&nbsp;<?php the_title(); ?>&nbsp;&raquo;, <em><?php bloginfo('name'); ?></em> [En ligne], ISSN 2427-8297, mis en ligne le <?php the_time('j F Y'); ?>. URL : &lt;<a rel="bookmark" title="Lien permanent vers <?php the_title(); ?>" href="<?php the_permalink(); ?>"><?php the_permalink(); ?></a>&gt;. Consult&eacute; le <?php setlocale(LC_TIME, "fr_FR"); echo utf8_encode(strftime("%e %B %Y")); ?>.</span></p>
 		</div>
 	<?php }
 }
